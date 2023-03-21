@@ -1,33 +1,71 @@
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\appsettings.json
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\veo.exe
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\veo.deps.json
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\veo.runtimeconfig.json
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\veo.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\veo.pdb
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\el\Desktop\New folder\veo\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.csproj.AssemblyReference.cache
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.AssemblyInfoInputs.cache
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.AssemblyInfo.cs
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.csproj.CoreCompileInputs.cache
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\scopedcss\bundle\veo.styles.css
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.csproj.CopyComplete
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.dll
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\refint\veo.dll
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.pdb
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\veo.genruntimeconfig.cache
-C:\Users\el\Desktop\New folder\veo\obj\Debug\net6.0\ref\veo.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/appsettings.json
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/veo.exe
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/veo.deps.json
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/veo.runtimeconfig.json
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/veo.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/veo.pdb
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/el/Desktop/New folder/veo/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.csproj.AssemblyReference.cache
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.AssemblyInfoInputs.cache
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.AssemblyInfo.cs
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.csproj.CoreCompileInputs.cache
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/scopedcss/bundle/veo.styles.css
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.csproj.CopyComplete
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.dll
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/refint/veo.dll
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.pdb
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/veo.genruntimeconfig.cache
+C:/Users/el/Desktop/New folder/veo/obj/Debug/net6.0/ref/veo.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/appsettings.Development.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/appsettings.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/veo
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/veo.deps.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/veo.runtimeconfig.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/veo.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/veo.pdb
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.csproj.AssemblyReference.cache
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.AssemblyInfoInputs.cache
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.AssemblyInfo.cs
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.csproj.CoreCompileInputs.cache
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.MvcApplicationPartsAssemblyInfo.cache
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets/msbuild.veo.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets/msbuild.build.veo.props
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.veo.props
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.veo.props
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets.build.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/staticwebassets.development.json
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/scopedcss/bundle/veo.styles.css
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.csproj.CopyComplete
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/refint/veo.dll
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.pdb
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/veo.genruntimeconfig.cache
+/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/Debug/net6.0/ref/veo.dll

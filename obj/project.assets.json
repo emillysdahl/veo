@@ -592,31 +592,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\el\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/emillysdahlfahrenholtz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
+      "projectUniqueName": "/Users/emillysdahlfahrenholtz/Desktop/veo/veo/veo.csproj",
       "projectName": "veo",
-      "projectPath": "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
-      "packagesPath": "C:\\Users\\el\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\el\\Desktop\\New folder\\veo\\obj\\",
+      "projectPath": "/Users/emillysdahlfahrenholtz/Desktop/veo/veo/veo.csproj",
+      "packagesPath": "/Users/emillysdahlfahrenholtz/.nuget/packages/",
+      "outputPath": "/Users/emillysdahlfahrenholtz/Desktop/veo/veo/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\el\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/emillysdahlfahrenholtz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -659,7 +652,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }
