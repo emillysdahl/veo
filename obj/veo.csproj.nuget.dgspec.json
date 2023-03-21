@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj": {}
+    "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj": {
+    "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
+        "projectUniqueName": "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
         "projectName": "veo",
-        "projectPath": "C:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
+        "projectPath": "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
         "packagesPath": "C:\\Users\\el\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\el\\Desktop\\New folder\\veo\\obj\\",
+        "outputPath": "c:\\Users\\el\\Desktop\\New folder\\veo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
