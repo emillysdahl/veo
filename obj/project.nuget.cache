@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jV/SHJgXs1RuZ5dJKHbig7eFI8awWQysAOspV/bb/E+YDTG/J7Dgx6yrCNSvb7iw/dpIJ15Xu3cpvnDKHb9uRA==",
+  "dgSpecHash": "1VcbwO9aAliZzWlaLpnI5WNVgvjPuBwOcL2Eyo71fvLl5gtTFT4EwL70GebvTbBViSwuLg2wDefYjxONDHmsiA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
+  "projectFilePath": "C:\\Users\\el\\Desktop\\New folder\\veo\\veo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\el\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\el\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",
