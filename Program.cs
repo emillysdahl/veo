@@ -93,6 +93,11 @@ app.MapGet("/employee/{id}/resourses", async (int id, DataContext db) =>
 });
 
 // - To get an employee by email
+app.MapGet("/employee/email/{email}", (string email, DataContext db) =>
+    db.Employees.Where(o => o.Email == email).FirstOrDefault()
+        is Employee employee
+            ? Results.Ok(employee)
+            : Results.NotFound());
 
 // - To get an employee by id
 app.MapGet("/employee/{id}", async (int id, DataContext db) =>
@@ -123,6 +128,7 @@ app.MapPut("/employee/{id}", async (int id, Employee inputEmployee, DataContext 
 });
 
 // - To update name or owner of the organization
+// for this I would probably just use the 'large' put for an organization.
 app.MapPut("/organization/{id}/name", async (int id, string name, DataContext db) =>
 {
     var existingEmployee = await db.Employees.FindAsync(id);
